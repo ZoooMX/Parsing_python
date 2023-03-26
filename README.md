@@ -28,6 +28,6 @@
 
 ### Lesson_3. BeautifulSoup + MongoDB
 ##### Задачи:
-Связать задачу с выгрузко данных в MongoDB
+Дополнить задачу Lesson_2 с выгрузкой данных в MongoDB
 ##### Выполнение:
 [Python_script](https://github.com/ZoooMX/Parsing_python/blob/main/lesson_3/lesson_3.py)
